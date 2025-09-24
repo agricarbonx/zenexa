@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zenexa Medical Data Retrieval Tool",
+  "description": "A futuristic platform that transforms scanned medical records into structured digital data for clinics, hospitals, and healthcare providers using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
